@@ -27,12 +27,11 @@
     ],
     "require-dev": {
         "orchestra/testbench": "^9.0",
-        "phpunit/phpunit": "^11.0",
-        "laravel/nova-devtool": "^1.6"
+        "phpunit/phpunit": "^11.0"
     },
     "require": {
         "php": "^8.3|^8.4",
-        "laravel/nova": "^5.0"
+        "laravel/nova": "^4.35"
     },
     "repositories": [
         {
